@@ -17,7 +17,7 @@ Basics and Online Presence
     * [Refs and Reflogs](https://www.atlassian.com/git/tutorials/refs-and-the-reflog)
     * [Git Log, how to get the best out of it](https://www.atlassian.com/git/tutorials/git-log)
     * [Git workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-  * [Git Handbook](https://www.atlassian.com/git/tutorials/git-log)
+  * [Git Handbook](https://git-scm.com/book/en/v2)
     * Following are the must read chapters
     * [Basics](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
     * [Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
