@@ -49,6 +49,7 @@ Advanced Engineering Concepts
 * Security related concerns / Authentication
   * [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
 * Basic Understanding of the SOLID Principles
+  * [SOLID principles using Javascript](https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa)
 * SPA web app model
 * Mobile app development
 * Cloud based app development
