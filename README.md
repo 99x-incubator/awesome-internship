@@ -43,6 +43,7 @@ Advanced Engineering Concepts
 * Continuous Integration / Continuous Delivery
 * No SQL Databases
 * Design patterns
+  * [Design patterns - Refactor GURU](https://refactoring.guru/design-patterns/catalog)
 * Project domain & technology stack related to the project. / PRoject architecture knowledge
 * Security related concerns / Authentication
   * [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
