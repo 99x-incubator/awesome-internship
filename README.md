@@ -55,4 +55,5 @@ Advanced Engineering Concepts
 * Quality Assurance
 * Machine learning and Data Mining
 * System Administration
+* [The Twelve Factor App](https://12factor.net/)
 
