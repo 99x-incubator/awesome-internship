@@ -34,6 +34,7 @@ Basics and Online Presence
 * Working with basic html / css / etc (properly structuring a design to html components)
 * Database Relational
 * OOP & Functional Programming with Javascripts
+  * [Introduction to Javascript functional Programming](https://flaviocopes.com/javascript-functional-programming/)
 
 Advanced Engineering Concepts
 =============================
