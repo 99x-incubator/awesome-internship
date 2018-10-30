@@ -35,6 +35,7 @@ Basics and Online Presence
 * Database Relational
 * OOP & Functional Programming with Javascripts
   * [Introduction to Javascript functional Programming](https://flaviocopes.com/javascript-functional-programming/)
+  * [Functional Programming in Javascript](https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5)
 
 Advanced Engineering Concepts
 =============================
