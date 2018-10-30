@@ -26,6 +26,8 @@ Basics and Online Presence
 * Programming Fundamentals
 * Algorithms & Data  Structures ( E.g. Hackerank , etc)
 * TDD & Unit testing
+  * [TDD Guide with an example](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
+  * [TDD the RITE way](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3)
 * Coding quality / Conventions  / best practices / How to structure a solution
 * Working with basic html / css / etc (properly structuring a design to html components)
 * Database Relational
