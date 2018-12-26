@@ -29,6 +29,7 @@ Basics and Online Presence
     * [Prototypes in JS](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
     * [Understanding this](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
     * [objects in JS](https://hackernoon.com/objects-in-javascript-2980a15e9e71)
+    * [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * Algorithms & Data  Structures ( E.g. Hackerank , etc)
 * TDD & Unit testing
   * [TDD Guide with an example](https://medium.com/@bethqiang/the-absolute-beginners-guide-to-test-driven-development-with-a-practical-example-c39e73a11631)
