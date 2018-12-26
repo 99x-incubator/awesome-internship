@@ -25,7 +25,7 @@ Basics and Online Presence
     * [Git internals, How it actually works](https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain)
 * Programming Fundamentals
   * Javascript Fundamentals
-    * [You don't know JS]()
+    * [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
     * [Prototypes in JS](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b)
     * [Understanding this](https://hackernoon.com/lets-get-this-this-once-and-for-all-f59d76438d34)
     * [objects in JS](https://hackernoon.com/objects-in-javascript-2980a15e9e71)
